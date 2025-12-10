@@ -58,7 +58,7 @@ https://www.igloo.inc/
 
 https://qodeinteractive.com/magazine/playable-interactive-websites
 
-https://webflow.com/blog/interactive-website?
+https://webflow.com/blog/interactive-website
 
 https://www.mockplus.com/blog/post/interactive-website-example/
 
