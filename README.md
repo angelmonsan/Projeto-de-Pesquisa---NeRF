@@ -30,7 +30,15 @@ Para aprimorar o aprendizado sobre NeRFs, modelagem 3D e realidade aumentada, se
 
 *Links de alguns tutoriais e alguns artigos:*
 
+https://unity.com/pt/solutions/xr/ar
 
+https://theaisummer.com/nerf/
+
+https://medialab.dei.unipd.it/research-areas/nerf/
+
+https://deeprender.ai/blog/plenoxels-radiance-fields-without-neural-networ
+
+https://arxiv.org/html/2501.13104v1
 
 ---
 
@@ -53,6 +61,8 @@ https://qodeinteractive.com/magazine/playable-interactive-websites
 https://webflow.com/blog/interactive-website?
 
 https://www.mockplus.com/blog/post/interactive-website-example/
+
+https://medialab.dei.unipd.it/research-areas/nerf/
 
 ---
 
